@@ -5,7 +5,7 @@ bools, as they're more commonly known will be our gateway to more interesting pr
 
 ### Starting to look familiar...
 Just like `String`s and `Scanner`s, `boolean`s are declared and initialized the same way.\
-Like this &nbsp;:arrow_down_\
+Like this &nbsp;:arrow_down:\
 `boolean myBoolean = true;`
 
 ### Boolean comparisons: yes or no?
