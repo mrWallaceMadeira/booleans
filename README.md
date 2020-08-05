@@ -21,5 +21,6 @@ We ask these "questions" with comparison operators&nbsp;:arrow_down:
   
 All of these operators will **return** a boolean value\
 Meaning you can initialize a new bool witht these operations like this: `boolean theResult = 0 == 0`\
-  - `theResult` should be true given that the "question"? 0 = 0? is true. 
+  - `theResult` should be true given that the question "Does 0 = 0?" can be answered with yes.\
+  - `true` is how we answer with Java
   
