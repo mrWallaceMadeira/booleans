@@ -26,7 +26,7 @@ Meaning you can initialize a new bool witht these operations like this: `boolean
 
 ### One step further
 We've stated that comparison operators "return" a value of true or false.\
-To create more complex statements, we can combine them with these operators: `&&` and `||`
+To create more complex statements, we can combine them with these operators: `&&` and `||`\
 For example &nbsp; :arrow_down:
 ```
   boolean isTrue = (1 == 1) && (2 == 2);
@@ -36,7 +36,7 @@ For example &nbsp; :arrow_down:
 ```
 `||` is known as a logical or
   - it evaluates to true if _one or both_ sides of the operator are true
- `&&` is known as a logical and 
+`&&` is known as a logical and 
   - it evaluates to true only if _both_ sides of the operator are true
 
 ### :hand:&nbsp;Stop!
