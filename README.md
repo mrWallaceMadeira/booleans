@@ -23,7 +23,22 @@ All of these operators will **return** a boolean value\
 Meaning you can initialize a new bool witht these operations like this: `boolean theResult = 0 == 0`
   - `theResult` should be true given that the question "Does 0 = 0?" can be answered with yes.
   - `true` is how we answer with Java
-  
+
+### One step further
+We've stated that comparison operators "return" a value of true or false.\
+To create more complex statements, we can combine them with these operators: `&&` and `||`
+For example &nbsp; :arrow_down:
+```
+  boolean isTrue = (1 == 1) && (2 == 2);
+  boolean isFalse = (1 == 2) && (2 == 2);
+  boolean isTrue2 = (1 == 2) || (2 == 2);
+  boolean isFalse2 = (1 == 2) || (1 == 2);
+```
+`||` is known as a logical or
+  - it evaluates to true if _one or both_ sides of the operator are true
+ `&&` is known as a logical and 
+  - it evaluates to true only if _both_ sides of the operator are true
+
 ### :hand:&nbsp;Stop!
 Watch [this](https://youtube.com)
 
