@@ -45,7 +45,7 @@ For example &nbsp; :arrow_down:
 Watch [this](https://youtube.com)
 
 ### C'est fini
-Entry ticket [here]()
+Entry ticket [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUN05YRlBPRkRPODRBMDRLMVdQQ1ZKS1g4USQlQCN0PWcu)
 
 
   
