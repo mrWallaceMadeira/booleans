@@ -34,8 +34,10 @@ For example &nbsp; :arrow_down:
   boolean isTrue2 = (1 == 2) || (2 == 2);
   boolean isFalse2 = (1 == 2) || (1 == 2);
 ```
+
 `||` is known as a logical or
   - it evaluates to true if _one or both_ sides of the operator are true
+
 `&&` is known as a logical and 
   - it evaluates to true only if _both_ sides of the operator are true
 
