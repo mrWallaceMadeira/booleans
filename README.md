@@ -1,4 +1,4 @@
-# Lesson 7: Boolin'
+# Lesson 6: Boolin'
 This lesson will cover a new variable type: `boolean`\
 `boolean` values are either true or false, simple as that.\
 bools, as they're more commonly known will be our gateway to more interesting programming
